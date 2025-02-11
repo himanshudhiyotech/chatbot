@@ -1,0 +1,274 @@
+{
+    "About": {
+        "AboutTalentSpiral": [
+            {
+                "question": "What is Talent Spiral?",
+                "answer": "Talent Spiral is an IT company based in Bhopal, Madhya Pradesh, India, providing technical and digital solutions globally. They offer training in various IT domains, including web development, data science, AI, and more."
+            },
+            {
+                "question": "Where is Talent Spiral located?",
+                "answer": "Talent Spiral is located at <a href='https://www.google.com/maps?q=F-3,+Jyoti+Cineplex,+Zone-I,+Maharana+Pratap+Nagar,+Bhopal,+Madhya+Pradesh+462011,+India' target='_blank'>F-3, Jyoti Cineplex, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011, India</a>."
+            }
+        ],
+        "Career": [
+            {
+                "question": "Does Talent Spiral provide internships?",
+                "answer": "Yes, Talent Spiral offers internship programs in fields such as Data Science, Web Development, and Digital Marketing. These internships provide hands-on experience and improve your employability."
+            },
+            {
+                "question": "Does Talent Spiral offer career opportunities?",
+                "answer": "Yes, Talent Spiral frequently has open positions in various roles, including trainers, developers, and HR professionals. Check the career section of the website for the latest job openings."
+            },
+            {
+                "question": "How can I apply for a job at Talent Spiral?",
+                "answer": "You can apply for a job by visiting the Talent Spiral career page, where you’ll find a list of open positions and application instructions."
+            }
+        ],
+        "Contact": [
+            {
+                "question": "Where is Talent Spiral located?",
+                "answer": "Talent Spiral is located at <a href='https://www.google.com/maps?q=F-3,+Jyoti+Cineplex,+Zone-I,+Maharana+Pratap+Nagar,+Bhopal,+Madhya+Pradesh+462011,+India' target='_blank'>F-3, Jyoti Cineplex, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011, India</a>."
+            },
+            {
+                "question": "How can I contact Talent Spiral? ",
+                "answer": "You can reach Talent Spiral at <a href='tel:+918965987932'>+91 8965987932</a> or <a href='tel:+919617161034'>+91 9617161034</a>, or via email at <a href='mailto:hello@talentspiral.com'>hello@talentspiral.com</a>"
+            }
+        ]
+    },
+    "Courses": {
+        "Courses": [
+            {
+                "question": "What courses does Talent Spiral offer?",
+                "answer": "Talent Spiral offers courses in Web Development, Data Science, Human Resource (HR) Management, Software Testing, Cloud Computing, Digital Marketing, Artificial Intelligence, Python Programming, Android App Development, Graphic Designing, and Content Writing."
+            },
+            {
+                "question": "Tell me about the Data Science course.",
+                "answer": "The Data Science Certification Course at Talent Spiral is a 3-month program with over 80 hours of content. It provides 100% job placement assistance, includes 13+ AI tools, and has a rating of 4.7 out of 5 from over 1200 students."
+            }
+        ],
+        "CoursePrerequisite": [
+            {
+                "question": "What are the prerequisites for the Data Science course?",
+                "answer": "No prior experience is required, though a basic understanding of programming (preferably Python) and statistics is recommended for the Data Science course."
+            }
+        ],
+        "CourseDurationAndFlexibility": [
+            {
+                "question": "How long is the Data Science course?",
+                "answer": "The Data Science course at Talent Spiral is 3 months long with over 80 hours of content. It can be taken part-time or full-time depending on your schedule."
+            },
+            {
+                "question": "Is the Data Science course flexible?",
+                "answer": "Yes, Talent Spiral offers flexible learning options. You can choose between weekend or weekday classes, and access recorded sessions if you miss a live class."
+            }
+        ],
+        "Post-Course Support": [
+            {
+                "question": "Does Talent Spiral offer support after course completion?",
+                "answer": "Yes, Talent Spiral provides post-course support, including career counseling, job referrals, and access to an alumni network to help students transition successfully into their careers."
+            }
+        ],
+        "LearningResources": [
+            {
+                "question": "What learning resources does Talent Spiral provide?",
+                "answer": "Talent Spiral offers a variety of learning resources, including online classes, eBooks, case studies, recorded sessions, interactive quizzes, and peer discussions to enhance the learning experience."
+            }
+        ],
+        "Certifications": [
+            {
+                "question": "Does Talent Spiral provide certification after completing a course?",
+                "answer": "Yes, upon successful completion of a course, Talent Spiral provides a certification recognized by industry professionals."
+            }
+        ]
+    },
+    "Trainers&Training": {
+        "Trainers": [
+            {
+                "question": "Who are the trainers at Talent Spiral? ",
+                "answer": "One of the key trainers is Akriti Shrivastava, the Founder & CEO of Talent Spiral. She has over 8 years of experience in human resources and digital training."
+            }
+        ],
+        "Training": [
+            {
+                "question": "Does Talent Spiral provide live project training? ",
+                "answer": "Yes, Talent Spiral provides live project training where students work on real-time industry projects to gain practical exposure and improve their problem-solving skills."
+            },
+            {
+                "question": "Does Talent Spiral offer corporate training?",
+                "answer": "Yes, Talent Spiral provides customized corporate training solutions for businesses. This includes team training in areas such as software development, digital marketing, and data analytics. Contact them for more details."
+            }
+        ]
+    },
+    "Testimonials": {
+        "AboutTalentSpiral": [
+            {
+                "question": "What do students say about Talent Spiral? ",
+                "answer": "Students have praised Talent Spiral for its comprehensive training and personalized mentorship. For example, Nihaal Narwariya mentioned that the HR training program is top-notch and thanked Akriti Ma'am for her support."
+            }
+        ],
+        "Success Stories": [
+            {
+                "question": "Can you share a success story from Talent Spiral?",
+                "answer": "Many students from Talent Spiral have successfully launched careers in IT. For example, after completing the Data Science course, Rajesh Kumar secured a job as a Data Scientist at an international firm."
+            }
+        ],
+        "International Students": [
+            {
+                "question": "Does Talent Spiral accept international students?",
+                "answer": "Yes, Talent Spiral accepts international students. They offer online training, allowing students from all over the world to join their courses."
+            }
+        ],
+        "SocialMediaandReviews": [
+            {
+                "question": "Does Talent Spiral have a social media presence?",
+                "answer": "Yes, Talent Spiral has a strong social media presence with over 80,000 followers on Instagram."
+            },
+            {
+                "question": "How are the reviews for Talent Spiral?",
+                "answer": "Talent Spiral has an overall rating of 4.8 out of 5 based on 79 reviews, with students appreciating the practical approach and expert guidance."
+            }
+        ]
+    },
+    "EnrollmentandFees": {
+        "Enrollment": [
+            {
+                "question": "How can I enroll in a course at Talent Spiral?",
+                "answer": "You can enroll by visiting their website or contacting them directly at <a href='mailto:hello@talentspiral.com'>hello@talentspiral.com</a> or via phone at <a href='tel:+918965987932'>+91 8965987932</a>."
+            }
+        ],
+        "Fees": [
+            {
+                "question": "What are the fees for the Data Science course?",
+                "answer": "The fee details for the Data Science course are available upon request. Please contact Talent Spiral directly for the most current fee structure."
+            }
+        ],
+        "Payment Plans": [
+            {
+                "question": "Are there payment plans available for the courses?",
+                "answer": "Yes, Talent Spiral offers flexible payment plans for their courses. You can opt for an installment plan to make the payments more manageable."
+            }
+        ]
+    },
+    "Placement": {
+        "TalentSpiralCareer": [
+            {
+                "question": "Does Talent Spiral provide internships?",
+                "answer": "Yes, Talent Spiral offers internship programs in fields such as Data Science, Web Development, and Digital Marketing. These internships provide hands-on experience and improve your employability."
+            },
+            {
+                "question": "Does Talent Spiral offer career opportunities?",
+                "answer": "Yes, Talent Spiral frequently has open positions in various roles, including trainers, developers, and HR professionals. Check the career section of the website for the latest job openings."
+            },
+            {
+                "question": "How can I apply for a job at Talent Spiral?",
+                "answer": "You can apply for a job by visiting the Talent Spiral career page, where you’ll find a list of open positions and application instructions."
+            }
+        ],
+        "PlacementAssistance": [
+            {
+                "question": "Does Talent Spiral offer job placement assistance? ",
+                "answer": "Yes, Talent Spiral provides 100% job placement assistance to students who successfully complete their training programs. They have tie-ups with various IT firms and help students with resume building, interview preparation, and job referrals."
+            },
+            {
+                "question": "How does Talent Spiral assist with job placements?",
+                "answer": "Talent Spiral offers 100% job placement assistance. They help students with resume building, interview preparation, and provide job referrals to companies in the IT sector."
+            }
+        ],
+        "PlacementPartners": [
+            {
+                "question": "Who are the placement partners for Talent Spiral?",
+                "answer": "Talent Spiral partners with leading IT firms and startups to provide job placement assistance to its students. They have partnerships with companies like TCS, Wipro, Infosys, and several others."
+            }
+        ],
+        "PlacementSuccessRate": [
+            {
+                "question": "What is the placement success rate at Talent Spiral?",
+                "answer": "Talent Spiral boasts a high placement success rate, with over 85% of students securing jobs within 6 months of completing their training."
+            }
+        ],
+        "AlumniNetwork": [
+            {
+                "question": "Does Talent Spiral have an alumni network?",
+                "answer": "Yes, Talent Spiral has a thriving alumni network where past students connect, share career advice, and access exclusive job opportunities and resources."
+            }
+        ]
+    },
+    "Internship": {
+        "TalentSpiralCareer": [
+            {
+                "question": "Does Talent Spiral provide internships?",
+                "answer": "Yes, Talent Spiral offers internship programs in fields such as Data Science, Web Development, and Digital Marketing. These internships provide hands-on experience and improve your employability."
+            },
+            {
+                "question": "Does Talent Spiral offer career opportunities?",
+                "answer": "Yes, Talent Spiral frequently has open positions in various roles, including trainers, developers, and HR professionals. Check the career section of the website for the latest job openings."
+            },
+            {
+                "question": "How can I apply for a job at Talent Spiral?",
+                "answer": "You can apply for a job by visiting the Talent Spiral career page, where you’ll find a list of open positions and application instructions."
+            }
+        ],
+        "IntershipProgram": [
+            {
+                "question": "Does Talent Spiral offer internships? ",
+                "answer": "Yes, Talent Spiral offers internship programs in multiple domains such as Web Development, Data Science, Digital Marketing, and HR Management. These internships help students gain hands-on experience and improve their job prospects."
+            }
+        ]
+    },
+    "Scholarships&Discounts": {
+        "ScholarshipsandOffers": [
+            {
+                "question": "Are there any scholarships available at Talent Spiral?",
+                "answer": "Talent Spiral offers merit-based scholarships and discounts for early enrollments. Contact their team for more details on available scholarships."
+            },
+            {
+                "question": "Are there any scholarships or discounts available? ",
+                "answer": "Yes, Talent Spiral offers merit-based scholarships and occasional discounts for early enrollments. Contact their team for more details on available offers."
+            }
+        ],
+        "Discounts": [
+            {
+                "question": "Are there any scholarships or discounts available? ",
+                "answer": "Yes, Talent Spiral offers merit-based scholarships and occasional discounts for early enrollments. Contact their team for more details on available offers."
+            },
+            {
+                "question": "Are group discounts available for courses?",
+                "answer": "Yes, Talent Spiral offers group discounts for corporate or group enrollments. Contact the team for more details."
+            }
+        ]
+    },
+    "UpcomingEvents,Webinars&Workshops": {
+        "UpcomingEvents": [
+            {
+                "question": "Are there any upcoming events or webinars? ",
+                "answer": "Talent Spiral regularly conducts free webinars, workshops, and industry events. Follow their social media pages or check their website for upcoming event details."
+            },
+            {
+                "question": "Does Talent Spiral host webinars or workshops?",
+                "answer": "Yes, Talent Spiral regularly conducts free webinars and workshops on topics related to IT and digital skills. You can find upcoming events on their website or social media pages."
+            }
+        ],
+        "Webinars&Workshops": [
+            {
+                "question": "Does Talent Spiral host webinars or workshops?",
+                "answer": "Yes, Talent Spiral regularly conducts free webinars and workshops on topics related to IT and digital skills. You can find upcoming events on their website or social media pages."
+            },
+            {
+                "question": "Are there any upcoming events or webinars? ",
+                "answer": "Talent Spiral regularly conducts free webinars, workshops, and industry events. Follow their social media pages or check their website for upcoming event details."
+            }
+        ]
+    },
+    "AdditionalServices": {
+        "Services": [
+            {
+                "question": "What other services does Talent Spiral offer? ",
+                "answer": "Talent Spiral also provides services in Product Development, Digital Marketing, Startup Solutions, Creative Designing, Portfolio Designing, Multimedia, Staffing, and Training & Certification."
+            }
+        ]
+    }
+}
+
+
+
+
