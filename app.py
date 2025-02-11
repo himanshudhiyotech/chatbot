@@ -185,7 +185,7 @@ def chatbot():
             session['step'] = "completed"
             response = "Are you satisfied with the response? Type Yes or No"
         else:
-            response = respondsubcategories(input_text)
+            response = respondquestions(input_text)
             # print(f"Response from respondquestions: {response}")
             session["step"] = "ask_query"
 
@@ -193,13 +193,13 @@ def chatbot():
         session["query"] = input_text
         query_category = session["query_category"]
         query_subcategory = session["query_subcategory"]
-        if input_text.lower() == "back":
+        if input_text.lower().replace(" ", "") == "back":
             session["step"] = "ask_query_subcategory"
-            response = respondsubcategories(input_text)
-        elif input_text.lower() == 'thankyou':
+            response = respondsubcategories(query_category)
+        elif input_text.lower().replace(" ", "") == 'thankyou':
             response = "Thank you! If you have more questions, type MORE and feel free to ask or type STOP to end conversation."
             session["step"] = "more"
-        elif input_text.lower() == 'stop':
+        elif input_text.lower().replace(" ", "") == 'stop':
             session['step'] = "completed"
             response = "Are you satisfied with the response? Type Yes or No"
         else:
@@ -208,21 +208,23 @@ def chatbot():
 
     elif session["step"] == "more":
         session["again"] = input_text
-        if input_text.lower() == "more":
+        if input_text.lower().replace(" ", "") == "more":
             session["step"] = "ask_query_category_again"
             response = respondcategories()
-        elif input_text.lower() == "stop":
+        elif input_text.lower().replace(" ", "") == "stop":
             response = "Are you satisfied with the response? Type Yes or No"
         else: 
             response = "Thank you! If you have more questions, type MORE and feel free to ask or type STOP to end conversation."
     
     elif session["step"] == "completed":
         session["again"] = input_text
-        if input_text.lower().replace(" ", "") != "stop":
+        if input_text.lower().replace(" ", "") == "yes":
+            response = "Thank you! If you have more questions, type MORE and feel free to ask. :)"
+        elif input_text.lower().replace(" ", "") == "no":
+            response = "Sorry for that :("
+        else: 
             session["step"] = "ask_query_category_again"
             response = respondcategories()
-        else: 
-            response = "Thank you! If you have more questions, type MORE and feel free to ask."
 
     else:
         response = "Error!"
