@@ -1,0 +1,44 @@
+# pip install -r requirements.txt 
+# Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+# Set-ExecutionPolicy Unrestricted -Scope Process 
+# python.exe -m pip install --upgrade pip
+
+flask
+flask-sqlalchemy
+flask_session
+# mysql-connector-python
+torch
+torchvision
+transformers
+tensorflow
+keras
+cython
+wheel
+scikit-learn
+python-dotenv
+langchain
+# hnswlib
+# chroma-hnswlib
+datasets
+huggingface_hub
+selenium
+webdriver_manager
+requests
+beautifulsoup4
+sentencepiece
+SQLAlchemy
+accelerate>=0.26.0
+psycopg2-binary 
+flask-cors
+bcrypt
+
+
+
+# Optional (Uncomment if needed)
+# numpy==1.23.5
+# --upgrade pip setuptools wheel
+# spacy
+# crewai
+# hnswlib
+# # pip install spacy[transformers]
+# # pip install cython blis murmurhash
